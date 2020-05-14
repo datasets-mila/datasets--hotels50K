@@ -1,1 +1,4 @@
 .nfs*
+/images/
+/*.err
+/*.out
