@@ -1,4 +1,6 @@
 .nfs*
+/extract/
 /images/
+*.jugdata/
 /*.err
 /*.out
