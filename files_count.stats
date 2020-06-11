@@ -1,3 +1,7 @@
+34300 images/test/high_occlusions
+34300 images/test/low_occlusions
+34306 images/test/medium_occlusions
+16175 images/test/unoccluded
 22517 images/train/0
 8636 images/train/1
 657626 images/train/-1
