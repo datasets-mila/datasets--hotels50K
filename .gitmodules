@@ -1,3 +1,4 @@
 [submodule "Hotels-50K"]
 	path = Hotels-50K
 	url = https://github.com/GWUvision/Hotels-50K.git
+	ignore = dirty
