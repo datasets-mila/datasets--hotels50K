@@ -1,4 +1,7 @@
 .nfs*
+*.jugdata/
+/.tmp/
+/logs/
 /Hotels-50K/
 /extract/
 /images/
